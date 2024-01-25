@@ -1,0 +1,23 @@
+.banner{
+    background-color: blueviolet;
+    border: 2px solid black;
+    width: 70px;
+    height: 70vh;
+}
+.body{
+    background-color: blue;
+    position: relative;
+
+}
+.banner input{
+    width: 70%;
+    position: relative;
+    margin: 10px 20px;
+    height: 20px;
+}
+.banner h1{
+    font-family: Chandas;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
